@@ -38,5 +38,6 @@ SQL functions used: `JOIN`, `GROUP BY`, `ORDER BY`, aggregate functions like `SU
 ---
 
 **Author:** Sumit Mehta  
-**Year:** 2023  
+**Year:** 2024
+
 
